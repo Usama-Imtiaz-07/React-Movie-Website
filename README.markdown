@@ -92,24 +92,24 @@ To run the Movie Database App locally:
 ## Project Structure
 ```plaintext
 movie-database-app/
-├── public/
-│   ├── index.html       # Main HTML file
-│   └── ...              # Static assets (e.g., favicon)
-├── src/
-│   ├── components/      # Reusable components (e.g., MovieCard, Carousel, SearchBox)
-│   ├── pages/           # Page components (e.g., Home, MovieDetails, Favorites)
-│   ├── context/         # Context API for global state
-│   ├── styles.css       # Tailwind CSS and custom styles
-│   ├── App.js           # Main app with routing logic
-│   └── index.js         # React entry point
-├── screenshots/         # Screenshot images for README
-│   ├── homepage-carousel.png
-│   ├── search-box.png
-│   ├── movie-details.png
-│   └── favorites-page.png
-├── .env                 # Environment variables (TMDB API key)
-├── package.json         # Project dependencies and scripts
-└── README.md            # Project documentation
+├── frontend/
+   ├── public/
+   │   ├── index.html       # Main HTML file
+   │   └── ...              # Static assets (e.g., favicon)
+   ├── src/
+   │   ├── components/      # Reusable components (e.g., MovieCard, Carousel, SearchBox)
+   │   ├── pages/           # Page components (e.g., Home, MovieDetails, Favorites)
+   │   ├── context/         # Context API for global state
+   │   ├── styles.css       # Tailwind CSS and custom styles
+   │   ├── App.js           # Main app with routing logic
+   │   └── index.js         # React entry point
+   ├── screenshots/         # Screenshot images for README
+   │   ├── homepage-carousel.png
+   │   ├── search-box.png
+   │   ├── movie-details.png
+   │   └── favorites-page.png
+   ├── package.json         # Project dependencies and scripts
+   └── README.md            # Project documentation
 ```
 
 ## Why This Project?
