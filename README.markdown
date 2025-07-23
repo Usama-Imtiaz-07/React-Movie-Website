@@ -11,20 +11,20 @@ Explore the app in action: [View Live Demo on Vercel](https://react-movie-app-rh
 Below are screenshots highlighting the app’s core features, responsive design, and user-friendly interface, showcasing my skills in React, API integration, and UI/UX design.
 
 ### Homepage
-![Homepage with Trending Carousel](screenshots/homepage.png)  
+![Homepage](frontend/screenshots/homepage.png)  
 *Displays the homepage (with a dynamic carousel in development and is yet to be uploaded) of trending movies fetched from the TMDB API, styled with Tailwind CSS for a modern, responsive layout.*
 
 ### Search Functionality
-![Search Functionality](screenshots/search-box.png)  
+![Search Functionality](frontend/screenshots/search-box.png)  
 *Showcases the search box, allowing users to find movies by title or keyword, demonstrating real-time API queries and dynamic rendering.*
 
 ### Favorites Page
-![Favorites Page](screenshots/favorites-page.png)  
+![Favorites Page](frontend/screenshots/favorites-page.png)  
 *Depicts the favorites page where users can view and manage saved movies, utilizing local storage and React Context API for state management.*
 
 
 ### Movie Details Page - In development
-![Movie Details Page is currently in development](screenshots/movie-details.png)  
+![Movie Details Page is currently in development](frontend/screenshots/movie-details.png)  
 *Illustrates a detailed view of a selected movie, including poster, description, and a trailer playback option (in development), highlighting React Router navigation.*
 
 
