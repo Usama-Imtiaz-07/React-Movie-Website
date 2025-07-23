@@ -23,7 +23,7 @@ Below are screenshots highlighting the app’s core features, responsive design,
 *Depicts the favorites page where users can view and manage saved movies, utilizing local storage and React Context API for state management.*
 
 
-### Movie Details Page - In development
+### Movie Details Page (In Development)
 ![Movie Details Page is currently in development](frontend/screenshots/movie-details.png)  
 *Illustrates a detailed view of a selected movie, including poster, description, and a trailer playback option (in development), highlighting React Router navigation.*
 
@@ -132,8 +132,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 I’m eager to connect with recruiters and discuss how my skills can contribute to your team!    
-- **Email**: [your-email@example.com](mailto:osamaimtiaz677@gmail.com)  
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/usama-imtiaz-a2a66721a/)  
+- **Email**: [My-email](mailto:osamaimtiaz677@gmail.com)  
+- **LinkedIn**: [My-linkedin-profile](https://www.linkedin.com/in/usama-imtiaz-a2a66721a/)  
 Explore the [live demo](https://react-movie-app-rho-peach.vercel.app/) and reach out for collaboration opportunities.
 
 ## Acknowledgments
