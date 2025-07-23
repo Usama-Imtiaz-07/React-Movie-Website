@@ -4,7 +4,7 @@
 Movie Database App is a dynamic, single-page web application built with **React.js**, showcasing my skills in modern frontend development. Integrated with the **TMDB API**, this project enables users to explore trending movies, manage a favorites list, and navigate a responsive UI with seamless page routing. Styled with **Tailwind CSS** and enhanced with features like a trending movie carousel and an in-development trailer playback system, this app demonstrates my ability to build engaging, API-driven applications suitable for a full stack portfolio.
 
 ## 🌟 Live Demo
-Experience the app in action: [View Live Demo on Vercel](https://your-vercel-app-link.vercel.app)  
+Experience the app in action: [View Live Demo on Vercel](https://react-movie-app-rho-peach.vercel.app/)  
 *Note*: The demo is hosted on Vercel, which automatically generates a deployment link. For the best experience, explore the trending carousel, add movies to favorites, and navigate between pages.
 
 ## Key Features
@@ -103,11 +103,10 @@ I welcome feedback and contributions! To contribute:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-I’m excited to connect with recruiters and discuss how my skills can contribute to your team!  
-- **GitHub**: [your-username](https://github.com/your-username)  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)  
-Feel free to explore the [live demo](https://your-vercel-app-link.vercel.app) and reach out for collaboration opportunities.
+I’m excited to connect with recruiters and discuss how my skills can contribute to your team!    
+- **Email**: [your-email@example.com](mailto:osamaimtiaz677@gmail.com)  
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/usama-imtiaz-a2a66721a/)  
+Feel free to explore the [live demo](https://react-movie-app-rho-peach.vercel.app/) and reach out for collaboration opportunities.
 
 ## Acknowledgments
 - [TMDB](https://www.themoviedb.org/) for the movie data API.
