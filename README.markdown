@@ -4,27 +4,29 @@
 Movie Database App is a dynamic, single-page web application built with **React.js**, showcasing my expertise in modern frontend development for a full stack portfolio. Integrated with the **TMDB API**, this app enables users to browse movies, search for specific titles, manage a favorites list, and explore trending movies via an interactive carousel. Styled with **Tailwind CSS** for a responsive, polished UI, it leverages **React Router** for seamless navigation and **React Context API** for efficient state management. A trailer playback feature, routing to a dedicated page, is currently in development, demonstrating my ability to build scalable, API-driven applications.
 
 ## 🌟 Live Demo
-Explore the app in action: [View Live Demo on Vercel](https://your-vercel-app-link.vercel.app)  
+Explore the app in action: [View Live Demo on Vercel](https://react-movie-app-rho-peach.vercel.app/)  
 *Note*: Hosted on Vercel with an auto-generated deployment link. Interact with the search box, trending carousel, and favorites system to experience the full functionality.
 
 ## Screenshots
 Below are screenshots highlighting the app’s core features, responsive design, and user-friendly interface, showcasing my skills in React, API integration, and UI/UX design.
 
-### Homepage with Trending Carousel
-![Homepage with Trending Carousel](screenshots/homepage-carousel.png)  
-*Displays the homepage with a dynamic carousel of trending movies fetched from the TMDB API, styled with Tailwind CSS for a modern, responsive layout.*
+### Homepage
+![Homepage with Trending Carousel](screenshots/homepage.png)  
+*Displays the homepage (with a dynamic carousel in development and is yet to be uploaded) of trending movies fetched from the TMDB API, styled with Tailwind CSS for a modern, responsive layout.*
 
 ### Search Functionality
 ![Search Functionality](screenshots/search-box.png)  
 *Showcases the search box, allowing users to find movies by title or keyword, demonstrating real-time API queries and dynamic rendering.*
 
-### Movie Details Page
-![Movie Details Page](screenshots/movie-details.png)  
-*Illustrates a detailed view of a selected movie, including poster, description, and a trailer playback option (in development), highlighting React Router navigation.*
-
 ### Favorites Page
 ![Favorites Page](screenshots/favorites-page.png)  
 *Depicts the favorites page where users can view and manage saved movies, utilizing local storage and React Context API for state management.*
+
+
+### Movie Details Page - In development
+![Movie Details Page is currently in development](screenshots/movie-details.png)  
+*Illustrates a detailed view of a selected movie, including poster, description, and a trailer playback option (in development), highlighting React Router navigation.*
+
 
 ## Key Features
 - **Movie Browsing**: Fetches and displays movie data (titles, posters, descriptions) from the TMDB API.
@@ -129,11 +131,10 @@ I welcome feedback and contributions! To contribute:
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-I’m eager to connect with recruiters and discuss how my skills can contribute to your team!  
-- **GitHub**: [your-username](https://github.com/your-username)  
-- **Email**: [your-email@example.com](mailto:your-email@example.com)  
-- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin-profile)  
-Explore the [live demo](https://your-vercel-app-link.vercel.app) and reach out for collaboration opportunities.
+I’m eager to connect with recruiters and discuss how my skills can contribute to your team!    
+- **Email**: [your-email@example.com](mailto:osamaimtiaz677@gmail.com)  
+- **LinkedIn**: [your-linkedin-profile](https://www.linkedin.com/in/usama-imtiaz-a2a66721a/)  
+Explore the [live demo](https://react-movie-app-rho-peach.vercel.app/) and reach out for collaboration opportunities.
 
 ## Acknowledgments
 - [TMDB](https://www.themoviedb.org/) for the movie data API.
