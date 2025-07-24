@@ -16,7 +16,7 @@ Below are screenshots highlighting the app’s core features, responsive design,
 
 ### Trending Carousel 
 ![Carousel](frontend/screenshots/TrendingCarousel.png)  
-*Displays the homepage with a dynamic carousel of trending movies with therir trailers fetched from the TMDB API, styled with Tailwind CSS for a modern, responsive layout.*
+*Displays the homepage with a dynamic carousel of trending movies with their trailers fetched from the TMDB API, styled with Tailwind CSS for a modern, responsive layout.*
 
 
 ### Search Functionality
