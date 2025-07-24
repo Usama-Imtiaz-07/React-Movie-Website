@@ -7,9 +7,12 @@
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
-.navbar-brand {
-  font-size: 1.5rem;
-  font-weight: bold;
+.navbar .navbar-brand img {
+  height: 100% !important;
+  width: 100% !important;
+  object-fit: contain !important;
+  max-height: 40px !important;
+  max-width: 40px !important;
 }
 
 .navbar-links {
@@ -33,8 +36,17 @@
     padding: 1rem;
   }
 
-  .navbar-brand {
-    font-size: 1.2rem;
+  .navbar .navbar-brand {
+    height: 16px;
+    width: 16px;
+  }
+
+  .navbar .navbar-brand img {
+    height: 100% !important;
+    width: 100% !important;
+    object-fit: contain !important;
+    max-height: 24px !important; /* Reduced max for mobile */
+    max-width: 24px !important;  /* Matches max-height for 1:1 */
   }
 
   .navbar-links {
