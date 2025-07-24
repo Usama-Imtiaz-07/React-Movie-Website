@@ -2,6 +2,7 @@ import MovieCard from "../components/MovieCard";
 import { useState, useEffect } from "react";
 import { searchMovies, getPopularMovies } from "../services/api";
 import "../css/Home.css";
+import TrendingCarousel from "../components/TrendingCarousel";
 
 function Home() {
   const [searchQuery, setSearchQuery] = useState("");
@@ -57,8 +58,9 @@ function Home() {
           Search
         </button>
       </form>
+      <TrendingCarousel />
 
-        {error && <div className="error-message">{error}</div>}
+      {error && <div className="error-message">{error}</div>}
 
       {loading ? (
         <div className="loading">Loading...</div>
